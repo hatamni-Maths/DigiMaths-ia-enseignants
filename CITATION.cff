@@ -8,8 +8,9 @@ authors:
     orcid: "https://orcid.org/0009-0008-7550-9086"
     affiliation: "Club DigiMaths, Lycée Mohammed VI, Imouzzer Kandar — Direction Provinciale de Sefrou, Académie Régionale Fès-Meknès, Maroc"
 version: "1.0.0"
-date-released: "2025-01-01"
+date-released: "2026-06-22"
 license: "CC-BY-NC-ND-4.0"
+doi: "10.5281/zenodo.20793181"
 repository-code: "https://github.com/hatamni-Maths/digimaths-ia-enseignants"
 abstract: >
   Troisième guide de la série pédagogique DigiMaths, consacré à l'intégration
