@@ -3,8 +3,7 @@
 **Série DigiMaths n°3** — Guide à l'usage des enseignants
 Dr. El Houssin Atamni
 
-![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
-[![DOI](https://img.shields.io/badge/DOI-%C3%A0_venir-orange.svg)](#citation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20793181.svg)](https://doi.org/10.5281/zenodo.20793181)
 
 ## Présentation
 
@@ -56,7 +55,7 @@ Si vous utilisez ce guide, merci de le citer :
 ```
 Atamni, E. (2025). L'IA au service des enseignants de mathématiques — guide à
 l'usage des enseignants. Série DigiMaths n°3, Club DigiMaths, Lycée Mohammed VI,
-Imouzzer Kandar, Maroc. [DOI à compléter après dépôt Zenodo]
+Imouzzer Kandar, Maroc. https://doi.org/10.5281/zenodo.20793181
 ```
 
 Voir aussi le fichier [`CITATION.cff`](./CITATION.cff).
